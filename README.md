@@ -6,7 +6,7 @@
 
 > 一款纯控制台实现的 3D 第一人称射击游戏，基于 C++ 完成。
 
-<img src="https://placehold.co/600x400?text=游戏截图+GIF+（建议补充实际截图）" width="550" alt="游戏效果演示"/>
+<img src="https://github.com/sllying/FPSGame/blob/main/img/FPS.png" width="550" alt="游戏效果演示"/>
 
 
 ## 🛠️ 项目特点
