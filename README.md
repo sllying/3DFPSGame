@@ -4,7 +4,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Visual Studio](https://img.shields.io/badge/IDE-VS2019+-blue)](https://visualstudio.microsoft.com/zh-hans/)
 
-> 一款纯控制台实现的 3D 第一人称射击游戏，基于 C++ 完成。
+> 一款纯控制台实现的第一人称射击游戏，基于 C++ 完成。
 
 <img src="https://github.com/sllying/FPSGame/blob/main/img/FPS.png" width="400" alt="游戏效果演示"/>
 
