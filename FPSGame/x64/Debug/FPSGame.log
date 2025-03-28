@@ -1,0 +1,26 @@
+﻿  FPSGame.cpp
+  Game.cpp
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\FPSGame.cpp(57,34): warning C4101: “e”: 未引用的局部变量
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(109,18): warning C4305: “初始化”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(177,34): warning C4101: “e”: 未引用的局部变量
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(273,55): warning C4305: “-=”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(274,56): warning C4305: “+=”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(497,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(502,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(511,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(515,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(670,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(850,43): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(905,34): warning C4101: “e”: 未引用的局部变量
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(944,23): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(946,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1037,55): warning C4305: “-=”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1038,56): warning C4305: “+=”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1089,51): warning C4305: “-=”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1090,52): warning C4305: “+=”: 从“double”到“float”截断
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1126,23): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1128,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1353,22): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+F:\win10\c\c++\Game\FPSGame-v3\FPSGame\Game.cpp(1726,28): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码...
+  FPSGame.vcxproj -> F:\win10\c\c++\Game\FPSGame-v3\x64\Debug\FPSGame.exe
